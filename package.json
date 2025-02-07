@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "flowbite-react": "^0.10.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
